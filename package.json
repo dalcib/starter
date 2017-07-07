@@ -1,0 +1,35 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "description": "",
+  "private": true,
+  "author": "Dalci de Jesus Bagolin",
+  "scripts": {
+    "expo": "react-native-scripts start",
+    "test": "jest --watch",
+    "web": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "start": "react-scripts-ts test",
+    "u": "jest -u"
+  },
+  "devDependencies": {
+    "babel-loader": "^7.1.1",
+    "babel-preset-react-native": "^2.1.0",
+    "tslint-config-prettier": "^1.1.0"
+  },
+  "dependencies": {
+    "@types/jest": "^20.0.2",
+    "@types/react": "^15.0.31",
+    "@types/react-dom": "^15.5.0",
+    "@types/react-native": "^0.44.12",
+    "@types/react-test-renderer": "^15.5.1",
+    "@types/react-native-vector-icons": "^4.2.0",
+    "js-plus": "0.1.1",
+    "mobx": "^3.1.15",
+    "mobx-react": "^4.2.1",
+    "tslib": "^1.7.1"
+  },
+  "keywords": [],
+  "license": "MIT",
+  "main": "src/App"
+}

@@ -1,0 +1,76 @@
+dependencies:
+  '@types/jest': 20.0.2
+  '@types/react': 15.0.35
+  '@types/react-dom': 15.5.1
+  '@types/react-native': 0.44.17
+  '@types/react-native-vector-icons': 4.2.0
+  '@types/react-test-renderer': 15.5.1
+  js-plus: 0.1.1
+  mobx: 3.2.0
+  mobx-react: 4.2.2
+  tslib: 1.7.1
+devDependencies:
+  tslint-config-prettier: 1.1.0
+packages:
+  /@types/jest/20.0.2:
+    resolution:
+      integrity: sha512-r9D5PKnwZiGcxkT7cej+7kq+pobFcCsj5TlWlO+AmlbwIo8u6vCWhGd0DPo8f7ANskwQaQ6vB6GqGN/DUoL3zQ==
+  /@types/react-dom/15.5.1:
+    dependencies:
+      '@types/react': 15.0.35
+    resolution:
+      integrity: sha512-4c+e/QPfvSa48YhgGOcQWoHishTo6BuJqka0Bh8qeLdnK1jS+1Nz8W/w1G17AIjtLxONYFUqmi8qyt+8p/yMFA==
+  /@types/react-native-vector-icons/4.2.0:
+    dependencies:
+      '@types/react': 15.0.35
+      '@types/react-native': 0.44.17
+    resolution:
+      integrity: sha512-RL+VMQ/+yFP3k1q6e6mtXTiUqjHN2tW+xkIEoy66ShKfmIkRkpaa0z72m5v009GvMRqXt/ew9rlTQZhdEV7xJg==
+  /@types/react-native/0.44.17:
+    dependencies:
+      '@types/react': 15.0.35
+    resolution:
+      integrity: sha512-BwNxBBOUHBzzLKL8vdDQaiQFzkGG4FFnrDVDLULcSQXktRLKSI/hxOT9ZqSUsaCtJerdgi5j2fZP7FfgoIwdiQ==
+  /@types/react-test-renderer/15.5.1:
+    dependencies:
+      '@types/react': 15.0.35
+    resolution:
+      integrity: sha512-KO5v4+RVnfguuoSjjC32Ds0EO5+G9v/aHdeheWmUiWnfyMrDVOkGQNUOBfhj+xtbb+3r3NSO9sE53b+fhGPDPg==
+  /@types/react/15.0.35:
+    resolution:
+      integrity: sha512-SDvfa+9dIq7RBTBiPhV0V+NeLT16RSFjcsjcyIJUBLlHpOatja1mHuOlI+P7tJ7fZZeBd8CV5pHxmFt4MdpyGQ==
+  /hoist-non-react-statics/1.2.0:
+    resolution:
+      integrity: sha1-qkSM8JhtVcxAdzsXF0t90GbLfPs=
+  /js-plus/0.1.1:
+    resolution:
+      integrity: sha1-RQzNSfbajqFbjk+5BUVM2gn/qAI=
+  /mobx-react/4.2.2:
+    dependencies:
+      hoist-non-react-statics: 1.2.0
+    resolution:
+      integrity: sha1-25zDyv772DDQWEwRSa9armeCkgE=
+  /mobx/3.2.0:
+    resolution:
+      integrity: sha1-XvsygLx/brkpmiUsn/m0QDy9jFo=
+  /tslib/1.7.1:
+    resolution:
+      integrity: sha1-vIAEFkaRkjp5/oN4u+s9ogF1OOw=
+  /tslint-config-prettier/1.1.0:
+    dev: true
+    resolution:
+      integrity: sha512-bVbvP6nGGzSBCW3/VikKwFFI50Cv/ZrjFWLPDCJtUIJeQ+8U1JL1VRUSPkwgD4hgI/dYfwl+K0ImkT1x5TwCAw==
+registry: 'https://registry.npmjs.org/'
+shrinkwrapVersion: 3
+specifiers:
+  '@types/jest': ^20.0.2
+  '@types/react': ^15.0.31
+  '@types/react-dom': ^15.5.0
+  '@types/react-native': ^0.44.12
+  '@types/react-native-vector-icons': ^4.2.0
+  '@types/react-test-renderer': ^15.5.1
+  js-plus: 0.1.1
+  mobx: ^3.1.15
+  mobx-react: ^4.2.1
+  tslib: ^1.7.1
+  tslint-config-prettier: ^1.1.0
